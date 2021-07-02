@@ -1,16 +1,14 @@
-//Install node js / npm
+## Installation
+
+###Install node js npm
+
 https://www.ganatan.com/tutorials/installer-nodejs
 
-//Installangular Cli
+###Installangular Cli
 npm install -g @angular/cli
 
 
-## Usage
-```bash
-python app.py
-View app at http://localhost:4200/
-
-
+## Bugs
 // solution aux bugs rencontré 
 
 npm install --save-dev @angular-devkit/build-angular
