@@ -4,7 +4,8 @@
 
 https://www.ganatan.com/tutorials/installer-nodejs
 
-###Installangular Cli
+###InstallangularCli
+
 npm install -g @angular/cli
 
 
