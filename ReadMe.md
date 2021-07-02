@@ -1,6 +1,6 @@
 ## Installation
 
-###Install node js npm
+### Install node js npm
 
 https://www.ganatan.com/tutorials/installer-nodejs
 
@@ -10,7 +10,7 @@ npm install -g @angular/cli
 
 
 ## Bugs
-solution aux bugs rencontré 
+## solution aux bugs rencontré 
 
 npm install --save-dev @angular-devkit/build-angular
 
