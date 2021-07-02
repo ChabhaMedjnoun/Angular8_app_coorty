@@ -65,7 +65,7 @@ export class ListSample4Component implements OnInit {
       }
     ];
   }
-
+//not used functions 
   public selectDensity(event) {
     this.density = this.displayDensities[event.index].label;
   }
@@ -80,6 +80,7 @@ export class ListSample4Component implements OnInit {
     fo.inputValue = this.searchContact;
     return fo;
   }
+  //Delete item
   removeItem(index) {
     this.contacts.splice(index, 1);
   }
