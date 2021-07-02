@@ -11,7 +11,7 @@ https://www.javatpoint.com/angular-8-installation
 
 
 
-## Solution aux bugs rencontrés 
+### Solution aux bugs rencontrés 
 
 npm install --save-dev @angular-devkit/build-angular
 
