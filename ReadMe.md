@@ -9,7 +9,7 @@ npm install -g @angular/cli
 
 
 ## Bugs
-// solution aux bugs rencontré 
+solution aux bugs rencontré 
 
 npm install --save-dev @angular-devkit/build-angular
 
