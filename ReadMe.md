@@ -9,7 +9,6 @@ https://www.ganatan.com/tutorials/installer-nodejs
 https://www.javatpoint.com/angular-8-installation
 
 
-npm install -g @angular/cli
 
 
 ## Solution aux bugs rencontrés 
